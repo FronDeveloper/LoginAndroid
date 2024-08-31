@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189126081486",
+    "project_id": "proyectologin-aefaf",
+    "storage_bucket": "proyectologin-aefaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189126081486:android:e63d4fc119910dfed7499f",
+        "android_client_info": {
+          "package_name": "com.wilson.proyectologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_X0ihkXEkQ2VnuQuDPzo10bT7PBfEbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

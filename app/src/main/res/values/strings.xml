@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto Login</string>
+    <string name="txt_title">Iniciar sesión</string>
+    <string name="txt_email">Correo</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="txt_login">Iniciar Sesión</string>
+    <string name="txt_register">Registrate</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="logout">Cerrar sesión</string>
+</resources>
